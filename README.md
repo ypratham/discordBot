@@ -1,4 +1,4 @@
-# Discord Bot
+# Discord Bot <img src="https://i.ibb.co/z2DbFDm/discord-logo-png-7622.png"  width="40px" height="40px" alt="discord-logo-png-7622" border="0">
 #### Version: 0.1.1
 - `!pdc info` - list of commands.
 - `!pdc hello bot` - say hello to our bot.
