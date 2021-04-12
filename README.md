@@ -1,5 +1,5 @@
 # Discord Bot
-####Version: 0.0.1
+#### Version: 0.0.1
 - This bot will encourage you 🙂 whenever it see a sad message being passed in the discord server.
 - Commands : 
 - `$help` : List all the commands on which the bots can respond.
