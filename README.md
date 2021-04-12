@@ -1,5 +1,5 @@
 # Discord Bot
-
+####Version: 0.0.1
 - This bot will encourage you 🙂 whenever it see a sad message being passed in the discord server.
 - Commands : 
 - `$help` : List all the commands on which the bots can respond.
@@ -12,3 +12,5 @@
 What you have to do : 
 https://discord.com/api/oauth2/authorize?client_id=830718960127311883&permissions=2148002880&scope=bot 
 - Go to the above link to add this bot to your server.
+
+Working on some new and intresting features
